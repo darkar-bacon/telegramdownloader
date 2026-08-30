@@ -10,7 +10,7 @@ import yt_dlp
 # =========================
 # CONFIG
 # =========================
-TOKEN = "8272287740:AAFVY5tHErqaj_llBrBFLnmZskckJEsAE7U"
+TOKEN = "8916888924:AAGWAAJ0TkXeEK729gEf0olb9AQ38QXxyWk"
 bot = TeleBot(TOKEN)
 
 MAX_FILE_SIZE = 49 * 1024 * 1024  # MB limit
